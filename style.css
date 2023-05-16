@@ -8,22 +8,21 @@
 
 .container {
     border: 1px solid #000;
-    background-color: #95E1D3;
+    background-color: #CD5C5C;
 }
 
 h3 {
-    float: right;
+	float: right;
     width: 30%;
-    padding: 5px 0;
+    padding: 5px;
     text-align: center;
-    border-bottom: 1px solid #000;
-    border-left: 1px solid #000;
+    border: 1px solid black;
     font-size: 125%;
-    background-color: #EAFFD0;
+    background-color: #FFA07A;
 }
 
 h1 {
-    padding: 2%;
+    padding: 3%;
     text-align: center;
     font-size: 175%;
 }
@@ -31,7 +30,6 @@ h1 {
 p {
     padding: 4%;
     clear: right;
-    font-size: 100%;
 }
 
 /*Style in large screen*/
