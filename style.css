@@ -8,17 +8,17 @@
 
 .container {
     border: 1px solid #000;
-    background-color: #CD5C5C;
+    background-color: #cd5c5c;
 }
 
 h3 {
-	float: right;
+    float: right;
     width: 30%;
     padding: 5px;
     text-align: center;
     border: 1px solid black;
     font-size: 125%;
-    background-color: #FFA07A;
+    background-color: #ffa07a;
 }
 
 h1 {
